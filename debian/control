@@ -1,0 +1,14 @@
+Source: breeze-x-gtk-theme
+Section: xfce
+Priority: optional
+Maintainer: Arjen Balfoort <arjenbalfoort@solydxk.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+
+Package: breeze-x-gtk-theme
+Architecture: all
+Depends: ${misc:Depends}, breeze-gtk-theme
+Breaks: gtk3-engines-breeze-x (<< 0.0.9)
+Replaces: gtk3-engines-breeze-x (<< 0.0.9)
+Description: Breeze Gtk theme for SolydX (light and dark).
+ Theme for breeze-gtk-theme including xfwm4 window decoration.

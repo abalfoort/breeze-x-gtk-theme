@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Breeze-X
+Name[en_US]=Breeze-X
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Breeze-X
+MetacityTheme=Breeze-X
+IconTheme=evolvere-2
+ApplicationFont=Clear Sans 11
+DesktopFont=Clear Sans 11
+MonospaceFont=
+CursorTheme=oxy-white
+CursorSize=24
+BackgroundImage=/usr/share/xfce4/backdrops/solydx-desktop-3840x2160.png
+SoundTheme=
+GtkColorScheme=
+
