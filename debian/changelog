@@ -1,3 +1,9 @@
+breeze-x-gtk-theme (0.1.9) stable; urgency=low
+
+  * Rebuilt with breeze-gtk-theme 5.17.5-2 (bullseye)
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Mon, 02 Nov 2020 11:24:48 +0100
+
 breeze-x-gtk-theme (0.1.8) stable; urgency=low
 
   * Updated translation: da
