@@ -24,7 +24,7 @@ style "default"
     GtkCheckMenuItem::indicator-size                  = 18
     GtkRadioMenuItem::indicator-size                  = 18
 
-    #GtkButton::child-displacement-y             = 0
+    GtkButton::child-displacement-y             = 0
     GtkButton::default-border                     = { 0, 0, 0, 0 }
     GtkButton::default-outside_border             = { 0, 0, 0, 0 }
 
@@ -36,10 +36,10 @@ style "default"
 
     GtkScrollbar::has-backward-stepper            = 1
     GtkScrollbar::has-forward-stepper               = 1
-    GtkScrollbar::stepper-size                      = 15
+    GtkScrollbar::stepper-size                      = 4
     GtkScrollbar::stepper-spacing                     = 0
     GtkScrolledWindow ::scrollbar-spacing           = 0
-    #GtkScrolledWindow ::scrollbars-within-bevel = 1
+    GtkScrolledWindow ::scrollbars-within-bevel = 1
 
     GtkVScale::slider_length                      = 20
     GtkVScale::slider_width                       = 20
