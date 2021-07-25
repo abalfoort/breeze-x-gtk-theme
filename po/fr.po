@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
-# Arjen Balfoort <arjenbalfoort@hotmail.com>, 2020
+# anechampenois <analogic@zaclys.net>, 2020
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-24 19:19+0200\n"
+"POT-Creation-Date: 2020-11-02 11:25+0100\n"
 "PO-Revision-Date: 2020-07-28 09:19+0000\n"
-"Last-Translator: Arjen Balfoort <arjenbalfoort@hotmail.com>, 2020\n"
+"Last-Translator: anechampenois <analogic@zaclys.net>, 2020\n"
 "Language-Team: French (https://www.transifex.com/abalfoort/teams/54212/fr/)\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -23,8 +23,8 @@ msgstr ""
 
 #: usr/share/themes/Breeze-Dark-X/index.theme.in.h:1
 msgid "Breeze-Dark-X"
-msgstr "Breeze-sombre-X"
+msgstr "Breeze-Dark-X"
 
 #: usr/share/themes/Breeze-X/index.theme.in.h:1
 msgid "Breeze-X"
-msgstr ""
+msgstr "Breeze-X"
