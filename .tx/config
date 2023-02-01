@@ -1,9 +1,9 @@
 [main]
 host = https://www.transifex.com
-minimum_perc = 50
 
-[breeze-x-gtk-theme.breeze-x-gtk-themepot]
-source_file = po/breeze-x-gtk-theme.pot
+[o:abalfoort:p:breeze-x-gtk-theme:r:breeze-x-gtk-themepot]
 file_filter = po/<lang>.po
+source_file = po/breeze-x-gtk-theme.pot
 source_lang = en
-type = PO
+type        = PO
+
