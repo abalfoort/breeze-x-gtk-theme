@@ -1,149 +1,155 @@
+breeze-x-gtk-theme (0.2.6) stable; urgency=low
+
+  * Fix Breeze-Dark-X
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 26 Feb 2023 15:33:31 +0100
+
 breeze-x-gtk-theme (0.2.5) stable; urgency=low
 
   * Updated translation: pt
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 27 Dec 2022 16:46:23 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 27 Dec 2022 16:46:23 +0100
 
 breeze-x-gtk-theme (0.2.4) stable; urgency=low
 
   * Updated translations
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sun, 09 Oct 2022 11:29:29 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 09 Oct 2022 11:29:29 +0200
 
 breeze-x-gtk-theme (0.2.3) stable; urgency=low
 
   * Updated translation: es_419 (latin america)
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 29 Jun 2022 08:43:55 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Wed, 29 Jun 2022 08:43:55 +0200
 
 breeze-x-gtk-theme (0.2.2) stable; urgency=low
 
   * Fix typo in /usr/share/themes/Breeze-X/gtk-3.0/gtk-dark.css 
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 05 May 2022 13:04:22 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 05 May 2022 13:04:22 +0200
 
 breeze-x-gtk-theme (0.2.1) stable; urgency=low
 
   * Gtk3 theme updated from Breeze/Breeze-Dark
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 26 Apr 2022 17:26:52 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 26 Apr 2022 17:26:52 +0200
 
 breeze-x-gtk-theme (0.2.0) stable; urgency=low
 
   * Updated translation: tr
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 08 Oct 2021 09:25:36 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Fri, 08 Oct 2021 09:25:36 +0200
 
 breeze-x-gtk-theme (0.1.9) stable; urgency=low
 
   * Rebuilt with breeze-gtk-theme 5.17.5-2 (bullseye)
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Mon, 02 Nov 2020 11:24:48 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 02 Nov 2020 11:24:48 +0100
 
 breeze-x-gtk-theme (0.1.8) stable; urgency=low
 
   * Updated translation: da
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 24 Oct 2020 19:19:37 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 24 Oct 2020 19:19:37 +0200
 
 breeze-x-gtk-theme (0.1.7) stable; urgency=low
 
   * Updated translation: sr
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 11 Aug 2020 17:13:53 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 11 Aug 2020 17:13:53 +0200
 
 breeze-x-gtk-theme (0.1.6) stable; urgency=low
 
   * Updated translation: pt
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 07 Aug 2020 10:20:13 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Fri, 07 Aug 2020 10:20:13 +0200
 
 breeze-x-gtk-theme (0.1.5) stable; urgency=low
 
   * Create translatable files for index.theme files
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 28 Jul 2020 11:10:36 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Tue, 28 Jul 2020 11:10:36 +0200
 
 breeze-x-gtk-theme (0.1.4) stable; urgency=low
 
   * Remove gtk-3.18 theme definitions and rename gtk-3.20 to gtk-3.0
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Mon, 27 Jul 2020 17:31:04 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 27 Jul 2020 17:31:04 +0200
 
 breeze-x-gtk-theme (0.1.3) stable; urgency=low
 
   * Fix index.theme files
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Mon, 27 Jul 2020 11:31:39 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 27 Jul 2020 11:31:39 +0200
 
 breeze-x-gtk-theme (0.1.2) stable; urgency=low
 
   * Update translations for Breeze-Dark-X
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 25 Jul 2020 21:39:20 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 25 Jul 2020 21:39:20 +0200
 
 breeze-x-gtk-theme (0.1.1) stable; urgency=low
 
   * Add index.theme files
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 01 Feb 2020 20:25:18 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 01 Feb 2020 20:25:18 +0100
 
 breeze-x-gtk-theme (0.1.0) stable; urgency=low
 
   * Change Breeze-X Gtk2 images
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 28 Nov 2019 13:25:35 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 28 Nov 2019 13:25:35 +0100
 
 breeze-x-gtk-theme (0.0.9) stable; urgency=low
 
   * Package renamed from gtk3-engines-breeze-x
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sun, 06 Oct 2019 11:53:16 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 06 Oct 2019 11:53:16 +0200
 
 breeze-x-gtk-theme (0.0.8) stable; urgency=low
 
   * Remove binaries and depend on gtk3-engines-breeze
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 21 Jun 2019 14:10:46 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Fri, 21 Jun 2019 14:10:46 +0200
 
 breeze-x-gtk-theme (0.0.7) stable; urgency=low
 
   * Increased scrollbar width in gtk3
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 21 Jun 2018 12:38:11 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 21 Jun 2018 12:38:11 +0200
 
 breeze-x-gtk-theme (0.0.6) stable; urgency=low
 
   * Added dependencies
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 19 Jul 2017 13:56:12 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Wed, 19 Jul 2017 13:56:12 +0200
 
 breeze-x-gtk-theme (0.0.5) stable; urgency=low
 
   * Removed deprecated style properties from gtk-3.0/gkt.css
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 01 Jul 2017 14:55:21 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 01 Jul 2017 14:55:21 +0200
 
 breeze-x-gtk-theme (0.0.4) stable; urgency=low
 
   * Fix Xfce desktop font color in dark theme
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 21 Apr 2017 19:05:25 +0200
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Fri, 21 Apr 2017 19:05:25 +0200
 
 breeze-x-gtk-theme (0.0.3) stable; urgency=low
 
   * Fix Gtk3 dark colors
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 16 Feb 2017 20:24:47 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Thu, 16 Feb 2017 20:24:47 +0100
 
 breeze-x-gtk-theme (0.0.2) stable; urgency=low
 
   * Fixed gtk3 gtk.css with blue accents left
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sun, 12 Feb 2017 11:43:33 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 12 Feb 2017 11:43:33 +0100
 
 breeze-x-gtk-theme (0.0.1) stable; urgency=low
 
   * Initial version
 
- -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Mon, 06 Feb 2017 11:44:11 +0100
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Mon, 06 Feb 2017 11:44:11 +0100
