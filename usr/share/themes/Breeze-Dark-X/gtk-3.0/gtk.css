@@ -15,10 +15,10 @@ text widgets and the like base background color */
 @define-color theme_base_color_breeze #232629;
 /*
 view hover decoration color*/
-@define-color theme_view_hover_decoration_color_breeze #e57300;
+@define-color theme_view_hover_decoration_color_breeze #f1b87f;
 /*
 background color of hovering selected widgets*/
-@define-color theme_hovering_selected_bg_color_breeze #e57300;
+@define-color theme_hovering_selected_bg_color_breeze #f1b87f;
 /*
 base background color of selections */
 @define-color theme_selected_bg_color_breeze #e57300;
@@ -103,7 +103,7 @@ widgets main borders color insensitive backdrop */
 *
 */
 @define-color theme_button_background_normal_breeze #31363b;
-@define-color theme_button_decoration_hover_breeze  #e57300;
+@define-color theme_button_decoration_hover_breeze  #f1b87f;
 @define-color theme_button_decoration_focus_breeze  #e57300;
 @define-color theme_button_foreground_normal_breeze #eff0f1;
 @define-color theme_button_foreground_active_breeze #eff0f1;
@@ -113,7 +113,7 @@ widgets main borders color insensitive backdrop */
 @define-color theme_button_foreground_insensitive_breeze        rgba(216, 218, 221, 0.35);
 @define-color theme_button_foreground_active_insensitive_breeze rgba(216, 218, 221, 0.35);
 @define-color theme_button_background_backdrop_breeze        #31363b;
-@define-color theme_button_decoration_hover_backdrop_breeze  #e57300;
+@define-color theme_button_decoration_hover_backdrop_breeze  #f1b87f;
 @define-color theme_button_decoration_focus_backdrop_breeze  #e57300;
 @define-color theme_button_foreground_backdrop_breeze        #eff0f1;
 @define-color theme_button_foreground_active_backdrop_breeze #eff0f1;
