@@ -2,7 +2,7 @@
 static char * close_prelight_xpm[] = {
 "18 18 21 1",
 " 	c None",
-".	c #E0E0E0",
+".	c #EFF0F1",
 "+	c #E0DFDF",
 "@	c #E8ADAD",
 "#	c #F36E6E",

@@ -2,7 +2,7 @@
 static char * hide_inactive_xpm[] = {
 "18 18 7 1",
 " 	c None",
-".	c #E0E0E0",
+".	c #EFF0F1",
 "+	c #CCCAC9",
 "@	c #CAC8C6",
 "#	c #938B84",

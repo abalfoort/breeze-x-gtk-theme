@@ -2,7 +2,7 @@
 static char * maximize_inactive_xpm[] = {
 "18 18 8 1",
 " 	c None",
-".	c #31363B",
+".	c #2a2d32",
 "+	c #495055",
 "@	c #7F8C8D",
 "#	c #7C888A",

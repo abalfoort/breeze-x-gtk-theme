@@ -2,7 +2,7 @@
 static char * stick_toggled_pressed_xpm[] = {
 "18 18 22 1",
 " 	c None",
-".	c #31363B",
+".	c #2a2d32",
 "+	c #41454A",
 "@	c #53585C",
 "#	c #61656A",

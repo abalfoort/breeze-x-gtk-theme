@@ -2,7 +2,7 @@
 static char * stick_toggled_active_xpm[] = {
 "18 18 11 1",
 " 	c None",
-".	c #E0E0E0",
+".	c #EFF0F1",
 "+	c #DFDFDF",
 "@	c #A4A2A1",
 "#	c #6B6865",

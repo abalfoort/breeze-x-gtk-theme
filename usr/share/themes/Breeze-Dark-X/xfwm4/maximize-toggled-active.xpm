@@ -2,7 +2,7 @@
 static char * maximize_toggled_active_xpm[] = {
 "18 18 7 1",
 " 	c None",
-".	c #31363B",
+".	c #2a2d32",
 "+	c #65686C",
 "@	c #7B7E82",
 "#	c #6C6F74",

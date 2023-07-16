@@ -1,3 +1,15 @@
+breeze-x-gtk-theme (0.2.8) stable; urgency=low
+
+  * Add Breeze-Black-X
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 16 Jul 2023 18:12:45 +0200
+
+breeze-x-gtk-theme (0.2.7) stable; urgency=low
+
+  * Synced with breeze-gtk-theme 5.27.2-1
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sat, 25 Mar 2023 11:46:33 +0100
+
 breeze-x-gtk-theme (0.2.6) stable; urgency=low
 
   * Fix Breeze-Dark-X

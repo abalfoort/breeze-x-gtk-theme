@@ -2,7 +2,7 @@
 static char * shade_toggled_active_xpm[] = {
 "18 18 10 1",
 " 	c None",
-".	c #31363B",
+".	c #2a2d32",
 "+	c #5D6166",
 "@	c #999C9F",
 "#	c #5E6267",
