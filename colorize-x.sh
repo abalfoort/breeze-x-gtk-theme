@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Convert Breeze theme to Breeze-X theme
+
+# Search used colors:
+#grep -Eoh '#[a-z0-9]{6}' *.css | sort | uniq
+#grep -Eoh '\([0-9]{1,3}\s*,\s*[0-9]{1,3}\s*,\s*[0-9]{1,3}' *.css | sort | uniq
+
 FLS=$(find ./usr/share/themes/ -name "gtk.css" -o -name "gtkrc" -o -name "*.svg" -o -name "*.xpm")
 for F in $FLS; do
     sed -i 's/#3daee9/#f19900/g' $F
